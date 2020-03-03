@@ -10,7 +10,7 @@ Installed: [Docker](https://www.docker.com/), [Java 1.8 or 1.11](https://www.ora
 $  git clone https://github.com/simad/pokemon-shakespeare .
 ```
 
-## Run with docker-compose 
+### Run with docker-compose 
 
 Build and start the container by running 
 
@@ -44,7 +44,7 @@ the response should be:
 docker-compose down
 ```
 
-Alternatively to docker compose:
+### Run without docker-compose
 ##### Build Docker image
 ```
 $ docker build -t="pokemon-shakespeare" .
