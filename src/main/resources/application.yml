@@ -1,0 +1,6 @@
+shakespeare:
+  api:
+    url: http://api.funtranslations.com/translate/shakespeare.json
+pokemon:
+  api:
+    url: https://pokeapi.co/api/v2/pokemon
